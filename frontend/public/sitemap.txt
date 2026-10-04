@@ -1,0 +1,16 @@
+https://pakchat.netlify.app/
+
+https://pakchat.netlify.app/auth/welcome/
+https://pakchat.netlify.app/auth/login/
+https://pakchat.netlify.app/auth/register/
+https://pakchat.netlify.app/auth/verify/
+https://pakchat.netlify.app/auth/forgot-password/
+https://pakchat.netlify.app/auth/reset-password/
+
+https://pakchat.netlify.app/auth/app/
+https://pakchat.netlify.app/auth/group/
+https://pakchat.netlify.app/auth/profile/
+https://pakchat.netlify.app/auth/contact/
+https://pakchat.netlify.app/auth/settings/
+
+https://pakchat.netlify.app/docs/tnc/
