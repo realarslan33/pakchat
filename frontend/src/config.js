@@ -1,5 +1,5 @@
 import { enUS, hiIN, frFR, jaJP, viVN, hyAM, arSD } from "@mui/material/locale";
-import { PATH_AUTH, PATH_DASHBOARD, PATH_DOCS } from "./routes/paths";
+import { PATH_DASHBOARD, PATH_DOCS } from "./routes/paths";
 
 export const defaultSettings = {
   themeMode: "dark",
