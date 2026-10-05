@@ -24,7 +24,7 @@ export function RHFUploadAvatar({
   const methods = useFormContext(); // Use useFormContext to get the form methods
 
   const [cropperOpen, setCropperOpen] = useState(false);
-  const [setInitialImageAdded] = useState(false);
+  const [initialImageAdded, setInitialImageAdded] = useState(false);
 
   const handleOpenCropper = () => {
     setCropperOpen(true);
