@@ -44,6 +44,7 @@ export function RHFUploadAvatar({
   };
 
   const handleDrop = (files, rejections) => {
+    console.log(initialImageAdded);
     other.onDrop?.(files, rejections);
     if (files?.length) {
       methods.setValue(name, URL.createObjectURL(files[0]), {
