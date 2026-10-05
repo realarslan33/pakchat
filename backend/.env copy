@@ -15,15 +15,6 @@ MAIL_PASS = ''
 CLOUDINARY_CLOUD_NAME = ""
 CLOUDINARY_API_KEY = ""
 CLOUDINARY_API_SECRET = ""
-
-# ----Social Auths---- (Can be skipped)
-# GitHub OAuth
-GITHUB_AUTH_CLIENT_ID = ""
-GITHUB_AUTH_CLIENT_SECRET = ""
-
-# GitHub OAuth
-LINKEDIN_AUTH_CLIENT_ID = ""
-LINKEDIN_AUTH_CLIENT_SECRET = ""
 # -------------------
 
 # Google reCAPTCHA

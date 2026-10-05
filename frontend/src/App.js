@@ -12,7 +12,7 @@ import HelmetHandler from "./utils/helmetHandler";
 
 import ReactGA from "react-ga4";
 
-if (process.env.REACT_APP_GA_ID !== "") {
+if (process.env.REACT_APP_GA_ID) {
   ReactGA.initialize(process.env.REACT_APP_GA_ID);
 }
 
