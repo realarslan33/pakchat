@@ -15,7 +15,10 @@ MAIL_PASS = ''
 CLOUDINARY_CLOUD_NAME = ""
 CLOUDINARY_API_KEY = ""
 CLOUDINARY_API_SECRET = ""
+<<<<<<< HEAD
 # -------------------
+=======
+>>>>>>> 055a5059e7be3725ddd3a2ccf2bf063a31b72097
 
 # Google reCAPTCHA
 GOOGLE_RECAPTCHA_SECRET = ""
